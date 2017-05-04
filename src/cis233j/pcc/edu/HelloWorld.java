@@ -8,5 +8,6 @@ public class HelloWorld {
     {
         System.out.println("This is the first message for branch");
         System.out.println("This is the second message for branch");
+        System.out.println("This is the second commit to gitHuh");
     }
 }
